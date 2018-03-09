@@ -1,0 +1,23 @@
+body{
+  background: #093547;
+  color: white;
+}
+button{
+  background-color: #FC0000;
+  border: none;
+  border-radius: 10px;
+  height: 30px;
+  color:white;
+}
+h3{
+  margin-top: 40px;
+}
+#anime{
+  width: 25%;
+  height: 200px;
+  float: right;
+  margin-top: -200px;
+}
+#list{
+
+}
